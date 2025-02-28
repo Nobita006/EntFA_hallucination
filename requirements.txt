@@ -1,0 +1,4 @@
+torch>=1.7.1
+fairseq
+transformers>=4.17.0
+spacy
